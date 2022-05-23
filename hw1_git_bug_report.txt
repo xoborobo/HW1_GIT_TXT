@@ -1,1 +1,19 @@
-
+Bug_123
+Summary: не открывается форма регистрации
+Project: store front
+Component: registration form
+Version": 1.1
+Severity: Critical
+Priority: High
+Status: New
+Author: Xbrb
+Assigned to: Nick
+Environment: MacOs Monterey 12.2.1, Chrome 100.0.4896.127
+Reproduce steps:
+step number:  1
+description: Открыть главную страницу сайта
+step number: 2,
+description: В хедере кликнуть на кнопку Регистрация
+Actual result: Форма регистрации/входа не открывается, в devTools получаем ошибку 500: internal server error
+Expected result: Открывается форма регистрации/входа
+Attachment: file DT_reg_form_1.jpg
