@@ -1,0 +1,29 @@
+Skills
+
+1. Basic theory: Что такое тестирование, баг-репорты, документация, виды, методы, направления тестирования и т.п. SDLC, STLC.
+2. Client server architecture: Что такое клиент-серверная архитектура.
+3. Http methods: HTTP Методы запросов на сервер.
+4. Http status codes: Коды ответов HTTP сервера.
+5. Http structures: Структуры HTTP запросов и ответов.
+6. Json, xml: Что такое JSON, XML. Их структура.
+7. API testing: Тестирование API через Postman - JS, автотесты API.
+8. Logs: Снятие и чтение логов c внешнего сервера.
+9. Sniffing: Сниффинг http web трафика через Charles и Fiddler.
+10. DevTools: Dev Tools веб браузеров Google Chrome, FireFox.
+11. VPN: Как работает, зачем нужен, как использовать, варианты инструментов.
+12. Mobile testing: Мобильное тестирование.
+13. Mobile OS features: Особенности iOS, Android, гайдлайны.
+14. XCode: Сборка iOS приложений на XCode.
+15. Building android apps: Сборка Android приложений на Android Studio.
+16. ADB: Управление андроид девайсами.
+17. Mobile proxy vpn: Настройка прокси и vpn на iOS и Android.
+18. Mobile traffic sniffing: Перехват мобильного трафика через Charles и Fiddler на iOS и Android.
+19. Terminal Linux: Командная строка terminal Linux: копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса.
+20. Bash scripting basics: Основы bash скриптинг, автоматизация рутинных задач на сервере.
+21. Remote servers: Доступ к удалённым серверам.
+22. SQL_basics: Основы SQL - Create, Delete, Drop, Insert Into, Select, From, Where, Join.
+23. Postgres BD: База данных Postgres - установка, настройка и использование.
+24. Redis BD: Нереляционная база данных Redis - установка, настройка и использование.
+25. Jmeter: Нагрузочное тестирование в Jmeter.
+26. Scrum: Методология разработки Scrum.
+27. Python basics: Python. Изучение основ. Создание клиент-серверного приложения.
